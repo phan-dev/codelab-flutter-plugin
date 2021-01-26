@@ -2,7 +2,7 @@
 
 A new flutter plugin project.
 
-Following the document [codelab flutter plugin](https://codelabs.developers.google.com/codelabs/write-flutter-plugin)
+Following the document to [write flutter plugin](https://codelabs.developers.google.com/codelabs/write-flutter-plugin)
 
 ## Getting Started
 
